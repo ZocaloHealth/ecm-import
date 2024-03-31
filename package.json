@@ -1,0 +1,19 @@
+{
+  "name": "ecm-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.136",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1589.0"
+  }
+}
