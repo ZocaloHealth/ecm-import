@@ -1,26 +1,190 @@
 [
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "92555430G",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      }
+    ]
   },
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "93725658E",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      },
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
   },
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "90442428G",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      },
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
   },
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "93020044E",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      }
+    ]
   },
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "95332868A",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      }
+    ]
   },
   {
-    "memberCIN": "",
-    "errors": []
+    "memberCin": "99815548D",
+    "errors": [
+      {
+        "header": "memberFirstName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "99815075E",
+    "errors": [
+      {
+        "header": "memberLastName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "98525098E",
+    "errors": [
+      {
+        "header": "memberLastName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "96661642G",
+    "errors": [
+      {
+        "header": "memberLastName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "97422610E",
+    "errors": [
+      {
+        "header": "memberLastName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "94257819G",
+    "errors": [
+      {
+        "header": "memberLastName",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "93206815G",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "98736007G",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "96276400G",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "95360388G",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "95271141E",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "91996538G",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "93777394A",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "97623471F",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
+  },
+  {
+    "memberCin": "90635298E",
+    "errors": [
+      {
+        "header": "residentialAddress",
+        "message": "Missing value"
+      }
+    ]
   }
 ]

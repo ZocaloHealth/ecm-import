@@ -1,6 +1,11 @@
 import xlsx from "xlsx";
 import fs from "fs";
-import { camelCase, normalizeDate, logError } from "./utils/index.js";
+import {
+  camelCase,
+  normalizeDate,
+  logError,
+  removeTrailingSpaces,
+} from "./utils/index.js";
 
 // This function will be your AWS Lambda handler
 export async function handler(event, context) {
@@ -14,7 +19,7 @@ export async function handler(event, context) {
 
   // Code to retrieve the file from S3 would go here
   // For now, let's assume we have the file locally
-  const workbook = xlsx.readFile("test/TEST_FILE.xlsx");
+  const workbook = xlsx.readFile("test/NO_ERRORS_TEST_ECM_FILE.xlsx");
   const sheetName = workbook.SheetNames[1]; // Get the second sheet
   const worksheet = workbook.Sheets[sheetName];
   const rawRows = xlsx.utils.sheet_to_json(worksheet, {
@@ -41,8 +46,7 @@ export async function handler(event, context) {
 
   for (const row of records) {
     const record = {};
-    let memberCIN = "";
-    let errors = []; // Initialize an array to collect errors for this record
+    let memberCin = "";
     let hasError = false;
 
     const isRowEmpty = row.every((cell) => cell === "");
@@ -50,32 +54,41 @@ export async function handler(event, context) {
 
     for (const header of headers) {
       let cellValue = row[headers.indexOf(header)];
+      record["memberCin"] = memberCin;
+
+      if (header === "memberCin") {
+        // If the header is "memberCin", store the value in a variable
+        memberCin = cellValue;
+      }
 
       // Apply specific rules based on header
       switch (header) {
-        case "memberCIN":
-          memberCIN = cellValue;
-          break;
         case "promotora":
         case "memberFirstName":
         case "memberLastName":
-        case "residentialAddress":
         case "residentialCity":
         case "residentialZip":
           // If any of these fields are empty, log an error
           if (!cellValue) {
-            logError(memberCIN, header, "Missing value", errorRecords); // Assuming memberCIN has the Member CIN
+            logError(memberCin, header, "Missing value", errorRecords); // Assuming memberCin has the Member CIN
             hasError = true;
           } else {
             record[header] = cellValue;
           }
           break;
+        case "residentialAddress":
+          if (!cellValue) {
+            logError(memberCin, header, "Missing value", errorRecords); // Assuming memberCin has the Member CIN
+            hasError = true;
+          } else {
+            record[header] = removeTrailingSpaces(cellValue);
+          }
         case "phoneNumber":
           record[header] = cellValue || "9999999998";
           break;
         case "dateOfBirth":
           if (!cellValue) {
-            logError(memberCIN, header, "Missing value", errorRecords); // Assuming memberCIN has the Member CIN
+            logError(memberCin, header, "Missing value", errorRecords); // Assuming memberCin has the Member CIN
             hasError = true;
           } else {
             record[header] = normalizeDate(cellValue);
@@ -86,7 +99,7 @@ export async function handler(event, context) {
           break;
         case "gender":
           if (!cellValue || !["M", "F"].includes(cellValue)) {
-            logError(memberCIN, header, "Missing value", errorRecords); // Assuming memberCIN has the Member CIN
+            logError(memberCin, header, "Missing value", errorRecords); // Assuming memberCin has the Member CIN
             hasError = true;
           } else {
             record[header] = cellValue;
@@ -103,9 +116,6 @@ export async function handler(event, context) {
       // If there are no errors, add the record to the formatted records
       record["foldLocation"] = "California Zócalo Health";
       formattedRecords.push(record);
-    } else {
-      // If there are errors, add the memberCIN and errors to errorRecords
-      errorRecords.push({ memberCIN, errors });
     }
   }
 
@@ -122,9 +132,13 @@ export async function handler(event, context) {
     );
   }
 
-  console.log("errorRecords:", errorRecords);
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: "Records processed successfully" }),
+    body: JSON.stringify({
+      message: `Records processed successfully${
+        errorRecords.length > 0 ? " with errors." : "."
+      }`,
+      errorRecords,
+    }),
   };
 }

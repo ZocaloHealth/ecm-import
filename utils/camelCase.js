@@ -4,6 +4,8 @@ const camelCase = (str) => {
   return (
     str
       .trim()
+      // Remove any special characters
+      .replace(/[^\w\s]/g, "")
       .toLowerCase()
       // Split the string on spaces, then reduce the array to build the camelCase string
       .split(" ")

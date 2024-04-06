@@ -1,5 +1,84 @@
 [
   {
+    "memberCin": "92555430G",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "OLEA LOPEZ",
+    "residentialAddress": "815 IROLO ST APT 105",
+    "residentialCity": "LOS ANGELES",
+    "residentialZip": "900054301",
+    "phoneNumber": "3237108047",
+    "dateOfBirth": "12/31/1969",
+    "gender": "M",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "93725658E",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "GARCIA",
+    "residentialAddress": "16855 PALMER ",
+    "residentialCity": "HURON",
+    "residentialZip": "93234",
+    "phoneNumber": "9999999999",
+    "dateOfBirth": "12/31/1969",
+    "gender": "M",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "90442428G",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "GUEVERA-CAMPOS",
+    "residentialAddress": "GENERAL DELIVERY ",
+    "residentialCity": "VISALIA",
+    "residentialZip": "93291",
+    "phoneNumber": "2092035757",
+    "dateOfBirth": "12/31/1969",
+    "gender": "F",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "93020044E",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "ARIAS",
+    "residentialAddress": "3661 MC DOWELL ST ",
+    "residentialCity": "LE GRAND",
+    "residentialZip": "95333",
+    "phoneNumber": "2094551343",
+    "dateOfBirth": "12/31/1969",
+    "gender": "F",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "95332868A",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "CASTILLO",
+    "residentialAddress": "HOMELESS ",
+    "residentialCity": "LE GRAND",
+    "residentialZip": "95333",
+    "phoneNumber": "2093894676",
+    "dateOfBirth": "12/31/1969",
+    "gender": "F",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "99815548D",
+    "promotora": "Brianna",
+    "memberFirstName": "Test",
+    "memberLastName": "CORTES",
+    "residentialAddress": "10341 CHILDS AVE ",
+    "residentialCity": "LE GRAND",
+    "residentialZip": "95333",
+    "phoneNumber": "2093165230",
+    "dateOfBirth": "12/31/1969",
+    "gender": "F",
+    "foldLocation": "California Zócalo Health"
+  },
+  {
+    "memberCin": "99815075E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VILLALOBOS",
@@ -12,6 +91,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98525098E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "AGUILAR CALDERON",
@@ -24,6 +104,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96661642G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ALLEN",
@@ -36,6 +117,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97422610E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ALVAREZ",
@@ -48,6 +130,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94257819G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CASTILLO RAMIREZ",
@@ -60,6 +143,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93206815G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CASTILLO RAMIREZ",
@@ -72,6 +156,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98736007G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CHEN",
@@ -84,6 +169,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96276400G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CORONA",
@@ -96,6 +182,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95360388G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "DUCEY",
@@ -108,6 +195,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95271141E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "FIGUEROA-CHAVEZ",
@@ -120,6 +208,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96041285G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GARCIA VALENCIA",
@@ -132,6 +221,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90429984G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GARCIA-MENDOZA",
@@ -144,6 +234,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95120852C",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GARRISON",
@@ -156,6 +247,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94390555D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GRANADOS",
@@ -168,6 +260,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93892488G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GUERRERO",
@@ -180,6 +273,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94493198G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "HER",
@@ -192,6 +286,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97302816G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "HERNANDEZ",
@@ -204,6 +299,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91996538G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "HOSEY",
@@ -216,6 +312,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93777394A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "JOHNSON",
@@ -228,6 +325,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97623471F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "KOUNLABOUT",
@@ -240,6 +338,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90635298E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "LOEFFERS",
@@ -252,6 +351,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96965140D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MARTINEZ",
@@ -264,6 +364,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98476433C",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MCILHATTON",
@@ -276,6 +377,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97341579G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MERCADO OROZCO",
@@ -288,6 +390,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "99245183G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MUNIZ",
@@ -300,6 +403,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90529017G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "RAMOS",
@@ -312,6 +416,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94433315G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "RANGEL",
@@ -324,6 +429,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98483595G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SCHAEFER",
@@ -336,6 +442,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91251756A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SMITH",
@@ -348,6 +455,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93474754E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SOLIS",
@@ -360,6 +468,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98431036G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SOLIZ",
@@ -372,6 +481,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97206104G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SOLIZ",
@@ -384,6 +494,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94907399A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "TRUJILLO-PEREZ",
@@ -396,6 +507,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91051569C",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "UPKINS",
@@ -408,6 +520,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93100402G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VANG",
@@ -420,6 +533,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95887678G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VASQUEZ PEREZ",
@@ -432,6 +546,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93782067E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "WALKER",
@@ -444,6 +559,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91393438G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "TORRES",
@@ -456,6 +572,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "92286931G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SUAREZ",
@@ -468,6 +585,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96581279E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "FOGT",
@@ -480,6 +598,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90785746G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MORALES",
@@ -492,6 +611,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91358777F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MOUA",
@@ -504,6 +624,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "99648284G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MUNOS",
@@ -516,6 +637,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97180956G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MUTHANNA",
@@ -528,6 +650,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93732258D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "NUNEZ",
@@ -540,6 +663,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96790027G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "PEREZ LOPEZ",
@@ -552,6 +676,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98645425G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "PEREZ-GARIBO",
@@ -564,6 +689,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96637119F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "PLIEGO-MALDONADO",
@@ -576,6 +702,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96769715G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "RALLS",
@@ -588,6 +715,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "99982898G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "RIVERA",
@@ -600,6 +728,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97718739G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SANTOS SANTIAGO",
@@ -612,6 +741,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96587774A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SOLIS",
@@ -624,6 +754,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90034767G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VASQUEZ",
@@ -636,6 +767,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96002975G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VASQUEZ-HERNANDEZ",
@@ -648,6 +780,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93133846G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VASQUEZ-MORENO",
@@ -660,6 +793,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95680315C",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VEGA",
@@ -672,6 +806,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91017544G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VELAZQUEZ",
@@ -684,6 +819,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97850634G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VILLA-HERNANDEZ",
@@ -696,6 +832,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98362363E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ZAMORA MEDINA",
@@ -708,6 +845,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91348566G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VILLANUEVA",
@@ -720,6 +858,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "92185675D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ALFAR",
@@ -732,6 +871,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96453387A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "BATES",
@@ -744,6 +884,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94812816D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CASTILLO",
@@ -756,6 +897,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97962129D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CUEVAS PEREZ",
@@ -768,6 +910,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94698712A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "FERNANDEZ",
@@ -780,6 +923,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93475331A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GODOY",
@@ -792,6 +936,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97423318D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GOMEZ",
@@ -804,6 +949,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93928708A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "LOCK HERNANDEZ",
@@ -816,6 +962,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93785845D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "MORENO",
@@ -828,6 +975,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93501389A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "NUNEZ-AZUA",
@@ -840,6 +988,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "99725430D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "RODRIGUEZ",
@@ -852,6 +1001,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91716448D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "SILVA",
@@ -864,6 +1014,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97548330C",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VEGA",
@@ -876,6 +1027,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93343031A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "WEBB",
@@ -888,6 +1040,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94288241A",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ZARAGOZA",
@@ -900,6 +1053,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93837839E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "QUINONEZ CASTELLANOS",
@@ -912,6 +1066,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94262211E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "VALDOVINOS",
@@ -924,6 +1079,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91049468G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CEJA-CEJA",
@@ -936,6 +1092,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98755588G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "AVILA ARANA",
@@ -948,6 +1105,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96788733E",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "FLORES",
@@ -960,6 +1118,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94426305G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ACOSTA CASTRO",
@@ -972,6 +1131,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90059785G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "AGUILAR-ALVAREZ",
@@ -984,6 +1144,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "93224482D",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ALATORRE ALVAREZ",
@@ -996,6 +1157,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97706005G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "BALTAZAR HURTADO",
@@ -1008,6 +1170,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "99645643G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "BETANCOURT MENDEZ",
@@ -1020,6 +1183,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "98698359F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CASTRILLO-ALVES",
@@ -1032,6 +1196,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94053459F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CHAVEZ",
@@ -1044,6 +1209,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "91859475G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CHAVEZ VERDUGO",
@@ -1056,6 +1222,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "96230596G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "CORTEZ",
@@ -1068,6 +1235,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97850098G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "DELACRUZ-ALVAREZ",
@@ -1080,6 +1248,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "97772673G",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "DUARTE",
@@ -1092,6 +1261,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "94210300H",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "ESPINOSA",
@@ -1104,6 +1274,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "95591171F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "GALLEGO PIZARRO",
@@ -1116,6 +1287,7 @@
     "foldLocation": "California Zócalo Health"
   },
   {
+    "memberCin": "90393667F",
     "promotora": "Brianna",
     "memberFirstName": "Test",
     "memberLastName": "HERNANDEZ",
