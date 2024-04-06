@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "https://s3.console.aws.amazon.com/s3/buckets/amplify-amplify1022ef5aba954-staging-03705-deployment?region=us-east-2&bucketType=general&tab=objects"
+        },
+        "object": {
+          "key": "eligibility-file.csv"
+        }
+      }
+    }
+  ]
+}
